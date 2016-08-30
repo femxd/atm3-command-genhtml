@@ -1,14 +1,14 @@
 {
   "name": "atm3-command-genhtml",
   "version": "0.0.3",
-  "description": "the upload file command for atm3",
+  "description": "generate html plugin for react-guide ui framework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/femxd/atm3-command-upload.git"
+    "url": "git+https://github.com/femxd/atm3-command-genhtml.git"
   },
   "keywords": [
     "atm",
@@ -20,9 +20,9 @@
   },
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/femxd/atm3-command-upload/issues"
+    "url": "https://github.com/femxd/atm3-command-genhtml/issues"
   },
-  "homepage": "https://github.com/femxd/atm3-command-upload",
+  "homepage": "https://github.com/femxd/atm3-command-genhtml",
   "dependencies": {
     "js-beautify": "^1.6.4",
     "request": "^2.72.0"
