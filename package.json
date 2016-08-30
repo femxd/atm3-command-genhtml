@@ -1,5 +1,5 @@
 {
-  "name": "atm3-command-upload",
+  "name": "atm3-command-genhtml",
   "version": "0.0.3",
   "description": "the upload file command for atm3",
   "main": "index.js",
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/femxd/atm3-command-upload",
   "dependencies": {
+    "js-beautify": "^1.6.4",
     "request": "^2.72.0"
   },
   "maintainers": [
